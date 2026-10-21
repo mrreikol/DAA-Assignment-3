@@ -1,0 +1,7 @@
+﻿Algorithm,Small_Time_us,Small_Ops,Medium_Time_us,Medium_Ops,Large_Time_us,Large_Ops
+Kruskal MST,38.4,208,312.1,3940,3420.5,48124
+Prim MST,24.1,64,225.8,1042,2890.2,10854
+Topological Sort (DAG),8.2,70,68.4,1100,794.6,11000
+Topological Sort (Cycle),6.5,45,51.2,740,580.1,7650
+Kosaraju SCC,16.3,100,148.7,1700,1720.4,17000
+Dijkstra,19.5,72,198.3,1120,2410.6,11215
